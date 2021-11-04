@@ -1,4 +1,4 @@
-# picking-numbers-js
+# Picking Numbers Algorithm Challenge JavaScript
 			
 Algorithm challenge	
 Given an array of integers, find the longest subarray where the absolute difference between any two elements is less than or equal to .
